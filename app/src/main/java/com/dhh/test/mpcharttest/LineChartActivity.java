@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 /**
  * Created by DHH on 2018/1/30.
- * 页面：
+ * 页面：线性统计图
  */
 
 @SuppressLint("Registered")
